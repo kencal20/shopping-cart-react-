@@ -69,7 +69,7 @@
                         </div>
                         <div class="col-sm-6 col-md-3">
                             <div class="thumbnail thumbnail-content">
-                            <img src="images/download (2).jpg" alt="..."/>
+                            <img src={image} alt="..."/>
                             <div class="caption">
                                 <h4>Jeans Jacket</h4>
                                 
@@ -84,7 +84,7 @@
                         </div>
                         <div class="col-sm-6 col-md-3">
                             <div class="thumbnail thumbnail-content">
-                            <img src="images/download (2).jpg" alt="..."/>
+                            <img src={image} alt="..."/>
                             <div class="caption">
                                 <h4>Jeans Jacket</h4>
                                 
@@ -99,7 +99,7 @@
                         </div>
                         <div class="col-sm-6 col-md-3">
                             <div class="thumbnail thumbnail-content">
-                            <img src="images/download (2).jpg" alt="..."/>
+                            <img src={image} alt="..."/>
                             <div class="caption">
                                 <h4>Jeans Jacket</h4>
                                 
@@ -114,7 +114,7 @@
                         </div>
                         <div class="col-sm-6 col-md-3">
                             <div class="thumbnail thumbnail-content">
-                            <img src="images/download (2).jpg" alt="..."/>
+                            <img src={image} alt="..."/>
                             <div class="caption">
                                 <h4>Jeans Jacket</h4>
                                 
@@ -129,7 +129,7 @@
                         </div>
                         <div class="col-sm-6 col-md-3">
                             <div class="thumbnail thumbnail-content">
-                            <img src="images/download (2).jpg" alt="..."/>
+                            <img src={image} alt="..."/>
                             <div class="caption">
                                 <h4>Jeans Jacket</h4>
                                 
@@ -144,7 +144,7 @@
                         </div>
                         <div class="col-sm-6 col-md-3">
                             <div class="thumbnail thumbnail-content">
-                            <img src="images/download (2).jpg" alt="..."/>
+                            <img src={image} alt="..."/>
                             <div class="caption">
                                 <h4>Jeans Jacket</h4>
                                 
@@ -159,7 +159,7 @@
                         </div>
                         <div class="col-sm-6 col-md-3">
                             <div class="thumbnail thumbnail-content">
-                            <img src="images/download (2).jpg" alt="..."/>
+                            <img src={image} alt="..."/>
                             <div class="caption">
                                 <h4>Jeans Jacket</h4>
                                 
@@ -174,7 +174,7 @@
                         </div>
                         <div class="col-sm-6 col-md-3">
                             <div class="thumbnail thumbnail-content">
-                            <img src="images/download (2).jpg" alt="..."/>
+                            <img src={image} alt="..."/>
                             <div class="caption">
                                 <h4>Jeans Jacket</h4>
                                 
@@ -189,7 +189,7 @@
                         </div>
                         <div class="col-sm-6 col-md-3">
                             <div class="thumbnail thumbnail-content">
-                            <img src="images/download (2).jpg" alt="..."/>
+                            <img src={image} alt="..."/>
                             <div class="caption">
                                 <h4>Jeans Jacket</h4>
                                 
