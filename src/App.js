@@ -1,6 +1,6 @@
-import Navbar from  './Components/Navbar'
-import Side_bar from './Components/Side_bar'
-import Content from  './Components/Content'
+import Navbar from  './Components/Navbar/Navbar'
+import Side_bar from './Components/Side_bar/Side_bar'
+import Content from  './Components/Body/Content'
 function App() {
   return (
   <>

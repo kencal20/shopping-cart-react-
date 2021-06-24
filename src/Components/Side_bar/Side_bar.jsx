@@ -1,4 +1,5 @@
 import React from 'react';
+import side_bar  from './../Side_bar/Side_bar.css'
 
 const Side_bar = () => {
     return (
@@ -11,7 +12,7 @@ const Side_bar = () => {
         <div class="col-md-3"> <p>Xl</p></div>
         <div class="col-md-3"><p>XXL</p></div><br></br>
         
-           <span class="glyphicon glyphicon-star glyphicon" aria-hidden="true"></span> star
+         <br></br>  <span class="glyphicon glyphicon-star glyphicon" aria-hidden="true"></span> Star
         
         
        
